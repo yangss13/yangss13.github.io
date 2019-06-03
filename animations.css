@@ -191,4 +191,5 @@ opacity: 0;
 }
 
 .social li:nth-child(5) {
-  an
+  animation-delay: 1.2s;
+}
